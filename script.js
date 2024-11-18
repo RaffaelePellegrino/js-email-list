@@ -1,4 +1,3 @@
-const arrayEmails = []
 
 function richiestaEmail(){
     const listEmail = document.getElementById("mails");
